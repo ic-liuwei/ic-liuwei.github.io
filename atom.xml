@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wei&#39;s HomeTown</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-12-18T14:29:09.099Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Wei</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2023-12/18/hello-world/"/>
+    <id>http://example.com/2023-12/18/hello-world/</id>
+    <published>2023-12-18T14:29:09.099Z</published>
+    <updated>2023-12-18T14:29:09.099Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一篇文章</title>
+    <link href="http://example.com/2020-11/21/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://example.com/2020-11/21/我的第一篇文章/</id>
+    <published>2020-11-21T15:15:36.000Z</published>
+    <updated>2023-12-18T14:29:09.099Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这是我第一篇文章，简要介绍有用的hexo安装过程及其配置修改。（所使用的主题为&lt;a href=&quot;https://github.com/Shen-Yu/hexo-theme-ayer&quot;&gt;Ayer&lt;/a&gt;）&lt;br&gt;
+    
+    </summary>
+    
+      <category term="program" scheme="http://example.com/categories/program/"/>
+    
+      <category term="shell" scheme="http://example.com/categories/program/shell/"/>
+    
+    
+      <category term="program" scheme="http://example.com/tags/program/"/>
+    
+      <category term="shell" scheme="http://example.com/tags/shell/"/>
+    
+      <category term="Hexo安装" scheme="http://example.com/tags/Hexo%E5%AE%89%E8%A3%85/"/>
+    
+  </entry>
+  
+</feed>
