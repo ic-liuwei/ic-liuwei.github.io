@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/2023-12/18/hello-world/</url>
+    <url>/2023-12/22/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start-Hexo"><a href="#Quick-Start-Hexo" class="headerlink" title="Quick Start Hexo"></a>Quick Start Hexo</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
@@ -13,6 +13,23 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>obsidian绿色版提取</title>
+    <url>/2023-12/22/obsidian%E7%BB%BF%E8%89%B2%E7%89%88%E6%8F%90%E5%8F%96/</url>
+    <content><![CDATA[<p>如何提取绿色版obsidian</p>
+<p>因为某些原因，我们需要便携的绿色版软件，这里介绍提取绿色版obsidian的方法：</p>
+<ol>
+<li>在obsidian<a href="https://obsidian.md/">官网</a>下载最新版安装包</li>
+<li>后缀名改为zip</li>
+<li>解压缩</li>
+<li>如下图，红框app压缩包即为所需，解压使用即可<br><img src="Snipaste_2023-12-22_22-01-55.png" alt=""></li>
+</ol>
+]]></content>
+      <categories>
+        <category>tools</category>
+        <category>obsidian</category>
+      </categories>
   </entry>
   <entry>
     <title>我的第一篇文章</title>
@@ -54,22 +71,5 @@
         <tag>program</tag>
         <tag>shell</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>obsidian绿色版提取</title>
-    <url>/2023-12/22/obsidian%E7%BB%BF%E8%89%B2%E7%89%88%E6%8F%90%E5%8F%96/</url>
-    <content><![CDATA[<p>如何提取绿色版obsidian</p>
-<p>因为某些原因，我们需要便携的绿色版软件，这里介绍提取绿色版obsidian的方法：</p>
-<ol>
-<li>在obsidian<a href="https://obsidian.md/">官网</a>下载最新版安装包</li>
-<li>后缀名改为zip</li>
-<li>解压缩</li>
-<li>如下图，红框app压缩包即为所需，解压使用即可<br><img src="Snipaste_2023-12-22_22-01-55.png" alt=""></li>
-</ol>
-]]></content>
-      <categories>
-        <category>tools</category>
-        <category>obsidian</category>
-      </categories>
   </entry>
 </search>
